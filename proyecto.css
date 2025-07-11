@@ -1,0 +1,28 @@
+body {
+    background-image: url('fondopet.jpg');
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    color:rgb(10, 10, 1);
+}
+
+th,td {
+    padding:10px;
+    border:1px solid  #f2f4f5;
+    text-align: justify; 
+}
+th {
+    background-color: #92068b;
+}
+
+.contenedor{
+    display: flex;
+    justify-content:space-around;
+}
+.item{
+    width:30%;
+    height: 200px;
+    background-color:rgb(226, 219, 215);
+    text-align: center;
+}
+
