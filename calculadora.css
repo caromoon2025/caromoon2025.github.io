@@ -1,0 +1,16 @@
+.teclado{
+    display: grid;
+    grid-template-columns: 30px 30px 30px 30px;
+    margin-left: 35%;
+
+}
+
+.contenedor{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    background-color: cadetblue;
+    text-align: center;
+    align-items: center;
+}
